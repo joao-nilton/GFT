@@ -35,7 +35,7 @@ function jump() {
             position += 20;
             dino.style.bottom = position + 'px';
         }
-    }, 30);
+    }, 1);
 }
 
 function createCactus() {
@@ -58,12 +58,12 @@ function createCactus() {
             // Game over
             clearInterval(leftTimer);
             isGameOver = true;
-            document.body.innerHTML = '<h1 class="game-over">Fim de jogo</h1>';
+            document.body.innerHTML = '<h1 class="game-over">Game Over</h1>';
         } else {
             cactusPosition -= 10;
             cactus.style.left = cactusPosition + 'px';
         }
-    }, 20);
+    }, 30);
 
     setTimeout(createCactus, randomTime);
 }

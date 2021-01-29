@@ -35,7 +35,7 @@ function jump() {
             position += 20;
             dino.style.bottom = position + 'px';
         }
-    }, 20);
+    }, 30);
 }
 
 function createCactus() {

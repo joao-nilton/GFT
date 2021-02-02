@@ -74,3 +74,5 @@ document.addEventListener('keyup', handleKeyUp);
 /* Este código é uma cópia fiel da aula disponibilizada na DIO e GFT */
 /*<!--Antes era. Agora quase nem mais sou. -->*/
 /*<!--Evoluir sempre! Este é o objetivo. -->*/
+
+/* Na luta tentando evoluir diariamente */

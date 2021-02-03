@@ -76,3 +76,4 @@ document.addEventListener('keyup', handleKeyUp);
 /*<!--Evoluir sempre! Este é o objetivo. -->*/
 
 /* Na luta tentando evoluir diariamente */
+/* Continuando nas preces de cada dia */

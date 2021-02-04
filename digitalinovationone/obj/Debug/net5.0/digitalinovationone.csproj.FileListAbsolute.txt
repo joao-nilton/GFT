@@ -1,0 +1,15 @@
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/bin/Debug/net5.0/digitalinovationone.deps.json
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/bin/Debug/net5.0/digitalinovationone.runtimeconfig.json
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/bin/Debug/net5.0/digitalinovationone.runtimeconfig.dev.json
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/bin/Debug/net5.0/digitalinovationone.dll
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/bin/Debug/net5.0/ref/digitalinovationone.dll
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/bin/Debug/net5.0/digitalinovationone.pdb
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/obj/Debug/net5.0/digitalinovationone.csprojAssemblyReference.cache
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/obj/Debug/net5.0/digitalinovationone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/obj/Debug/net5.0/digitalinovationone.AssemblyInfoInputs.cache
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/obj/Debug/net5.0/digitalinovationone.AssemblyInfo.cs
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/obj/Debug/net5.0/digitalinovationone.csproj.CoreCompileInputs.cache
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/obj/Debug/net5.0/digitalinovationone.dll
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/obj/Debug/net5.0/ref/digitalinovationone.dll
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/obj/Debug/net5.0/digitalinovationone.pdb
+/Users/JoaoNilton/Workspace-GFT/digitalinovationone/obj/Debug/net5.0/digitalinovationone.genruntimeconfig.cache

@@ -77,3 +77,5 @@ document.addEventListener('keyup', handleKeyUp);
 
 /* Na luta tentando evoluir diariamente */
 /* Continuando nas preces de cada dia */
+
+/* Cuidado com a ortografia  05-02-2021*/

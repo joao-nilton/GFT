@@ -79,3 +79,4 @@ document.addEventListener('keyup', handleKeyUp);
 /* Continuando nas preces de cada dia */
 
 /* Cuidado com a ortografia  05-02-2021*/
+/* Apocalipse now  06-02-2021*/

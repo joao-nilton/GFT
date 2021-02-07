@@ -80,3 +80,4 @@ document.addEventListener('keyup', handleKeyUp);
 
 /* Cuidado com a ortografia  05-02-2021*/
 /* Apocalipse now  06-02-2021*/
+/* Not now Apocalipse now  07-02-2021*/
